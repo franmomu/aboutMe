@@ -1,0 +1,29 @@
+body {
+  background-color: #E9F5F7;
+  font-family: sans-serif;
+}
+h1 {
+  color: #2A1959;
+  border-bottom: 2px solid #2A1959;
+}
+
+h1 span {
+	margin-left: 30px;
+}
+
+h2 {
+  color: #474B94;
+  font-size: 1.2em;
+}
+h2, p {
+  margin-left: 120px;
+}
+
+img {
+	vertical-align: middle;
+}
+
+#container {
+	width: 800px;
+	margin: 0 auto;
+}
